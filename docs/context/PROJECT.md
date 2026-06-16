@@ -19,4 +19,6 @@ traceable to a cited source.
 - `docs/context/` — durable working memory (this file and the three below).
 
 ## Current projects
-_None yet. Create one with `python scripts/new_project.py <name>`._
+- `capex_chip_transmission/` — How tech-hyperscaler capex propagates down the
+  semiconductor supply chain (designers → foundry → equipment → materials),
+  which companies' growth it drives, and the lead-lag of transmission.
