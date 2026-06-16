@@ -1,0 +1,6 @@
+hyperscaler,project_name,energy_source,capacity_mw,operational_year,source_url
+MSFT,Crane Clean Energy Center (Three Mile Island),Nuclear,835.0,2028,https://www.constellationenergy.com/newsroom/press-releases/2024/Constellation-to-Launch-Crane-Clean-Energy-Center-Restoring-Three-Mile-Island-Unit-1-to-Service.html
+AMZN,Talen Susquehanna Campus,Nuclear,960.0,2024,https://www.talenenergy.com/newsroom/talen-energy-announces-sale-of-cumulus-data-center-campus/
+GOOGL,Kairos Power SMR Fleet,Nuclear,500.0,2030,https://blog.google/outdoors-at-google/google-kairos-power-nuclear-energy/
+GOOGL,Fervo Energy Geothermal Project,Geothermal,3.0,2023,https://blog.google/outdoors-at-google/clean-energy-geothermal-nevada-fervo/
+META,Sage Geosystems Partnership,Geothermal,150.0,2027,https://about.fb.com/news/2024/08/meta-sage-geosystems-geothermal-energy-agreement/

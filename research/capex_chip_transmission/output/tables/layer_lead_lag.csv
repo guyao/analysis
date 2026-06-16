@@ -1,0 +1,5 @@
+layer,expected_lag_q,best_lag_q,peak_corr,corr_low,corr_high,beta,beta_low,beta_high
+accelerators_designers,1,4,-0.2879,-0.4818,-0.0353,-0.0652,-0.3964,-0.0197
+foundry,2,0,0.2821,0.0548,0.4786,0.0174,0.0094,0.0898
+equipment,3,5,0.3996,-0.3924,0.6888,0.0315,-0.1269,0.0383
+materials_substrates,4,3,-0.5512,-0.7932,-0.0614,-0.0255,-0.0573,-0.0076

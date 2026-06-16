@@ -1,0 +1,13 @@
+country,source,scenario,year,value_twh
+US,IEA,Actual,2022,200.0
+US,IEA,Low Case,2026,260.0
+US,IEA,High Case,2026,390.0
+US,EPRI,Low Growth,2030,260.0
+US,EPRI,Medium Growth,2030,330.0
+US,EPRI,High Growth,2030,390.0
+US,EPRI,Hyper Growth,2030,600.0
+China,IEA,Actual,2022,130.0
+China,IEA,Forecast,2026,270.0
+China,CAICT,Actual,2022,130.0
+China,CAICT,Forecast,2025,220.0
+China,CAICT,Forecast,2030,380.0

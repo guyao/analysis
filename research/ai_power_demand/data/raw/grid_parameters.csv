@@ -1,0 +1,6 @@
+country,metric,value,unit,source
+US,active_queue_capacity,2600.0,GW,LBNL
+US,average_wait_time_years,5.0,years,LBNL
+US,project_completion_rate,0.2,fraction,LBNL
+China,east_west_project_planned_nodes,8.0,nodes,CAICT
+China,uhv_transmission_capacity,150.0,GW,StateGrid

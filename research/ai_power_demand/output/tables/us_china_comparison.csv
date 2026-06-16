@@ -1,0 +1,11 @@
+parameter,us_value,china_value,unit,description
+AI GPU Blended Power TDP,0.7 kW,0.7 kW,kW,Blended average TDP per active GPU node
+"Projected Active GPUs (Medium, 2030)",8.0 million,2.0 million,million,Projected active equivalent GPU footprint
+"Bottom-up AI Power Demand (Low, 2030)",4.38 GW,0.88 GW,GW,Estimated power load in Low deployment scenario
+"Bottom-up AI Power Demand (Medium, 2030)",7.0 GW,1.75 GW,GW,Estimated power load in Medium deployment scenario
+"Bottom-up AI Power Demand (High, 2030)",10.5 GW,3.06 GW,GW,Estimated power load in High deployment scenario
+Top-down Projected Consumption (2030),330.0 TWh (37.67 GW),380.0 TWh (43.38 GW),TWh (GW),Top-down projections from EPRI (US Medium) and CAICT (China)
+Bilateral Secured PPAs (Nuclear/Geothermal),2.448 GW,0.0 GW,GW,Secured bilateral clean energy contracts by hyperscalers
+Net Grid Power Required (2030 Medium),4.55 GW,1.75 GW,GW,Projected demand that must go through standard grid
+Grid Interconnection Queue Wait Time,5.0 years,N/A (Centralized planning),years,Average wait time in grid interconnection queue
+Grid Capacity Metric,Queue: 2600.0 GW,UHV Line Capacity: 150.0 GW,GW,US active interconnection queue capacity vs China UHV line capacity

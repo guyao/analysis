@@ -1,0 +1,16 @@
+# Core scientific stack
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+statsmodels>=0.14
+
+# Visualization
+matplotlib>=3.7
+plotly>=5.15
+
+# Notebooks
+jupyter>=1.0
+
+# Testing
+pytest>=7.4
+hypothesis>=6.80
